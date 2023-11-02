@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CEM_App.Administrador"
+             Title="Administrador"
+             BackgroundColor="#1b66cc">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <BoxView HeightRequest="5" />
+
+                <Frame BackgroundColor="Transparent" BorderColor="Black" CornerRadius="10" HasShadow="True" Margin="10,5,10,0">
+                    <StackLayout>
+                        <Entry Placeholder="Número de Empleado" x:Name="EmpleadoNumeroEntry" BackgroundColor="Transparent" TextColor="Black" />
+                        <Button Text="Buscar" Clicked="BotonBuscar_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                    </StackLayout>
+                </Frame>
+
+                <BoxView HeightRequest="5" />
+
+                <Frame BackgroundColor="Transparent" BorderColor="Black" CornerRadius="10" HasShadow="True" Margin="10,0,10,5">
+                    <StackLayout>
+                        <Label Text="Nombre" TextColor="Black" />
+                        <Entry x:Name="NombreEntry" IsEnabled="False" BackgroundColor="Transparent" TextColor="Black" />
+
+                        <Label Text="Apellido Paterno" TextColor="Black" />
+                        <Entry x:Name="ApellidoPaternoEntry" IsEnabled="false" BackgroundColor="Transparent" TextColor="Black" />
+
+                        <Label Text="Apellido Materno" TextColor="Black" />
+                        <Entry x:Name="ApellidoMaternoEntry" IsEnabled="false" BackgroundColor="Transparent" TextColor="Black" />
+
+                        <Label Text="Correo" TextColor="Black" />
+                        <Entry x:Name="CorreoEntry" IsEnabled="false" BackgroundColor="Transparent" TextColor="Black" />
+
+                        <Label Text="Celular" TextColor="Black" />
+                        <Entry x:Name="CelularEntry" IsEnabled="false" BackgroundColor="Transparent" TextColor="Black" />
+
+                        <Label Text="Cargo" TextColor="Black" />
+                        <Entry x:Name="CargoEntry" IsEnabled="false" BackgroundColor="Transparent" TextColor="Black" />
+
+                        <Label Text="Horario entrada" TextColor="Black" />
+                        <Entry x:Name="HorarioEntradaEntry" IsEnabled="false" BackgroundColor="Transparent" TextColor="Black" />
+
+                        <Label Text="Horario salida" TextColor="Black" />
+                        <Entry x:Name="HorarioSalidaEntry" IsEnabled="false" BackgroundColor="Transparent" TextColor="Black" />
+                    </StackLayout>
+                </Frame>
+
+                <BoxView HeightRequest="5" />
+
+                <Frame BackgroundColor="Transparent" BorderColor="Black" CornerRadius="10" HasShadow="True" Margin="10,0,10,5">
+                    <StackLayout>
+                        <Label Text="Foto empleado" TextColor="Black" HorizontalOptions="CenterAndExpand" />
+                        <Image x:Name="ImagenEmpleado" HeightRequest="200" Aspect="AspectFit" />
+                    </StackLayout>
+                </Frame>
+
+                <BoxView HeightRequest="5" />
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Button Text="GUARDAR" Clicked="Guardar_Clicked" BackgroundColor="#2583eb" TextColor="White" Margin="10" />
+                    <Button Text="ELIMINAR" Clicked="Eliminar_Clicked" BackgroundColor="#fe0002" TextColor="White" Margin="10" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

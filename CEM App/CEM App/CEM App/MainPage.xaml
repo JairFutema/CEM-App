@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CEM_App.MainPage"
+             Title="CEM App"
+             BackgroundColor="#1b66cc">
+
+    <StackLayout>
+        <BoxView HeightRequest="5" />
+        <Frame BackgroundColor="Transparent" BorderColor="Black" CornerRadius="10" HasShadow="True" Margin="10,5,10,0">
+            <Button Text="Administrador" Clicked="Administrador_Clicked" BackgroundColor="Transparent" TextColor="Black" />
+        </Frame>
+        <BoxView HeightRequest="10" />
+        <Frame BackgroundColor="Transparent" BorderColor="Black" CornerRadius="10" HasShadow="True" Margin="10,0,10,5">
+            <Button Text="Perfil Administrador" Clicked="PerfilAdmi_Clicked" BackgroundColor="Transparent" TextColor="Black" />
+        </Frame>
+    </StackLayout>
+</ContentPage>

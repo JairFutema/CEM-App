@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dDvp4ab34yct2htkvXEBYdn+dIJj5ej8GUz/Cc6jj7kvV2DIv4HBaBSvNjrGjFHSSEveK1LsURZ/HqvUL59VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fabian Diaz\\Desktop\\Xamarin\\CEM App\\CEM App\\CEM App.iOS\\CEM App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabian Diaz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

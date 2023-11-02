@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CEM_App.Perfil_Administrador"
+             Title="Perfil Administrador"
+             BackgroundColor="#1b66cc">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <BoxView HeightRequest="5" />
+                <Frame BackgroundColor="Transparent" BorderColor="Black" CornerRadius="10" HasShadow="True" Margin="10,5,10,0">
+                    <StackLayout>
+                        <Label x:Name="NumeroEmpleadoLabel" Text="Número de empleado:" TextColor="Black" />
+                        <Label x:Name="NombreLabel" Text="Nombre:" TextColor="Black" />
+                        <Label x:Name="CargoLabel" Text="Cargo:" TextColor="Black" />
+                        <Label x:Name="IamgenLabel" Text="imagen:" TextColor="Black" />
+                        <Image x:Name="ImagenEmpleado" HeightRequest="200" Aspect="AspectFit" />
+                    </StackLayout>
+                </Frame>
+                <BoxView HeightRequest="5" />
+                <StackLayout Orientation="Vertical" Spacing="10" HorizontalOptions="FillAndExpand"  Margin="10">
+                    <Button Text="Alumnos" Clicked="AlumnosButton_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                    <Button Text="Avisos" Clicked="AvisosButton_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                    <Button Text="Consultas" Clicked="ConsultasButton_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                    <Button Text="Registro E/S" Clicked="RegistroESButton_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                    <Button Text="Reglamento" Clicked="ReglamentoButton_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                    <Button Text="Dudas/Preguntas" Clicked="DudasPreguntasButton_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                    <Button Text="Contacto" Clicked="ContactoButton_Clicked" BackgroundColor="#2583eb" TextColor="White" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+      
+    </ContentPage.Content>
+    
+</ContentPage>

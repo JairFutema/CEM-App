@@ -1,0 +1,17 @@
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\bin\Debug\netstandard2.0\CEM App.deps.json
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\bin\Debug\netstandard2.0\CEM App.dll
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\bin\Debug\netstandard2.0\ref\CEM App.dll
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\bin\Debug\netstandard2.0\CEM App.pdb
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\CEM App.csproj.AssemblyReference.cache
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\CEM App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\CEM App.AssemblyInfoInputs.cache
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\CEM App.AssemblyInfo.cs
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\CEM App.csproj.CoreCompileInputs.cache
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\CEM App.dll
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\ref\CEM App.dll
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\CEM App.pdb
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\Administrador.xaml.g.cs
+C:\Users\Fabian Diaz\Desktop\Xamarin\CEM App\CEM App\CEM App\obj\Debug\netstandard2.0\Perfil_Administrador.xaml.g.cs
