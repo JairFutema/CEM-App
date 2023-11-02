@@ -17,5 +17,15 @@ Ejemplo de como las llame:
 
 Crear botones en MainPage.xaml para llamar sus pantallas:
 [![Screenshot-6.png](https://i.postimg.cc/B6SQ7HqV/Screenshot-6.png)](https://postimg.cc/kVHmBVRQ)
-> **Nota:** No modificar las otras pantallas 
+> **Nota:** No modificar las otras pantallas
+
+
+Diseño de mis pantallas para tomar el mismo estilo:
+
+[![Screenshot-7.png](https://i.postimg.cc/7YkGSGzj/Screenshot-7.png)](https://postimg.cc/QVfd3M0q)
+
+[![Screenshot-8.png](https://i.postimg.cc/T1qPt0bF/Screenshot-8.png)](https://postimg.cc/GTtr2kqx)
+
+[![Screenshot-9.png](https://i.postimg.cc/kXqG2r3m/Screenshot-9.png)](https://postimg.cc/fkqDPrR2)
+
 
